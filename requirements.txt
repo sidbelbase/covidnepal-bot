@@ -16,7 +16,7 @@ pylint==2.6.0
 python-dateutil==2.8.1
 python-dotenv==0.13.0
 python-telegram-bot==12.8
-requests==2.24.0
+requests==2.25.1
 six==1.15.0
 toml==0.10.1
 tornado==6.0.4
